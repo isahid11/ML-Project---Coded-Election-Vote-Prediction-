@@ -1,4 +1,4 @@
-# ML-Project---Coded-Election-Vote-Prediction-
+# ML Project - Coded Election Vote Prediction
 
 Course: Machine Learning - 2
 
